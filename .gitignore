@@ -1,3 +1,5 @@
+.vs/
+[Oo]bj/
 bin/ 
 # bin order soll ignoriert werden
 # bin/Debug/ obsolete weil bin/
