@@ -1,6 +1,9 @@
-bin/ # bin order soll ignoriert werden
+bin/ 
+# bin order soll ignoriert werden
 # bin/Debug/ obsolete weil bin/
-beispiel.txt # hätte ich diese datei würde sie ignoriert werden
+
+# hätte ich diese datei würde sie ignoriert werden
+beispiel.txt 
 
 # whitelisting (alles wird ignoriert außer egal.txt
 # ! -> ist wichtig, sonst wird die date egal.txt ignoriert und alles ander nicht
